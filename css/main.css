@@ -1,0 +1,387 @@
+body {
+  font-family: 'Montserrat', sans-serif;
+  padding: 0;
+  margin: 0;
+  color: #000000;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+p {
+  margin: 0;
+}
+
+header {
+  background: url(../img/bg.jpg) no-repeat center top / cover;
+  font-size: 22px;
+}
+
+.container {
+  width: 93%;
+  /*Позиционировние по центру*/
+  margin: 0 auto;
+}
+
+
+.nav {
+  text-align: center;
+  padding-top: 1%;
+}
+
+.online {
+  margin: 0;
+  text-decoration: none;
+  color: #000;
+  background: #cb6000; /* Цвет фона */
+  padding: 81px 15px 25px 15px; /* Поля вокруг текста */
+  border-radius: 50px; /* Уголки */
+  margin-bottom: 2%;
+}
+
+.contact{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.4%;
+}
+
+.adress {
+  border-bottom: 3px solid #cd6000;
+}
+
+.tel {
+  text-align: right;
+  border-bottom: 3px solid #cd6000;
+}
+
+.adress01 {
+  text-decoration: none;
+  color: black;
+  border-bottom: 3px solid #cd6000;
+}
+
+.tel01 {
+  text-decoration: none;
+  color: black;
+  text-align: right;
+  border-bottom: 3px solid #cd6000;
+}
+
+.contact1{
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 15%;
+}
+
+.adress1 {
+  text-align: left;
+  text-decoration: none;
+  color: #000;
+}
+
+.tel1 {
+  margin-left: auto;
+  text-align: right;
+  text-decoration: none;
+  color: #000;
+}
+
+.logo {
+  display: flex;
+  margin: 0 auto;
+  margin-bottom: 15%;
+}
+
+.niz {
+  display: flex;
+}
+
+.kon {
+  border-bottom: 3px solid #cd6000;
+  margin-bottom: 5%;
+}
+
+.tg {
+  color: #000;
+  text-decoration: none;
+}
+
+.inst {
+  color: #000;
+  text-decoration: none;
+  margin-left: 33%;
+  margin-top: 10%;
+}
+
+.mouse {
+  width: 3.5%; /*Ширина изображения*/
+  height: 3.5%; /*Высота изображения*/
+  margin-left: auto;
+}
+
+section {
+  background-color: #fff;
+  margin-top: 5%;
+  margin-bottom: 14%;
+}
+
+.about {
+  width: 70%;
+  /*Позиционировние по центру*/
+  margin: 0 auto;
+}
+
+.onas {
+  font-size: 34px;
+  text-align: center;
+  padding: 0;
+  margin-bottom: 14%;
+}
+
+.aboutimage {
+  display: flex;
+  padding: 0;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.photo {
+/*  width: 311px;
+  height: 481px;*/
+}
+
+.lef {
+  margin-right: 20%;
+}
+
+.quality {
+  /*width: 352px;*/
+  font-size: 25px;
+  /*border-bottom: 3px solid #cd6000;*/
+/*  margin-left: 12.7%;*/
+}
+
+.aboutlair {
+/*  width: 78%;*/
+  font-size: 20px;
+/*  margin-left: 12.7%;*/
+  margin-top: 7%;
+}
+
+.cup12 {
+  display: flex;
+  font-size: 16px;
+}
+
+.icon1 {
+  width: 48px;
+  height: 59px;
+/*  margin-left: 90px;*/
+  margin-top: 40px;
+}
+
+.icon2 {
+  width: 56px;
+  height: 59px;
+/*  margin-left: 90px;*/
+  margin-top: 40px;
+}
+
+.icon3 {
+  width: 63px;
+  height: 58px;
+/*  margin-left: 90px;*/
+  margin-top: 40px;
+}
+
+.picon1 {
+  width: 60%;
+  margin-left: 35px;
+  margin-top: 40px;
+}
+
+.picon2 {
+  width: 60%;
+  margin-left: 26px;
+  margin-top: 45px;
+}
+
+.picon3 {
+  width: 60%;
+  margin-left: 20px;
+  margin-top: 45px;
+}
+
+.serv1 {
+  display: none;
+}
+
+.work {
+  width: 70%;
+  /*Позиционировние по центру*/
+  margin: 0 auto;
+}
+
+.service {
+  font-size: 34px;
+  text-align: center;
+  padding: 0;
+  margin-bottom: 13%;
+}
+
+.hair0 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 90px;
+}
+
+.hair01 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30%;
+}
+
+.test {
+  font-size: 18px;
+  position: absolute;
+  color: #fff;
+  text-decoration: none;
+  padding-top: 30px;
+  padding-left: 30px;
+}
+
+.maps {
+  width: 85%;
+  margin: 0 auto;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.infogis {
+  font-size: 18px;
+}
+
+.howstep {
+  font-size: 34px;
+  padding: 0;
+  margin-bottom: 40px;
+}
+
+.adressgis {
+/*  font-size: 18px;*/
+  padding: 0;
+  color: #ab682e;
+}
+
+.adressgis1 {
+/*  font-size: 18px;*/
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+.telgis {
+/*  font-size: 18px;*/
+  padding: 0;
+  color: #ab682e;
+}
+
+.telgis1 {
+/*  font-size: 18px;*/
+  padding: 0;
+  margin-bottom: 20px;
+}
+
+.timegis {
+/*  font-size: 18px;*/
+  padding: 0;
+  color: #ab682e;
+}
+
+.timegis1 {
+/*  font-size: 18px;*/
+  padding: 0;
+}
+
+.infogismobile {
+  display: none;
+}
+
+.gismobile {
+  display: none;
+}
+
+.create {
+  width: 100%;
+  margin: 0 auto;
+}
+
+hr {
+  border: none; /* Убираем границу */
+  background-color: #505050; /* Цвет линии */
+  color: #505050; /* Цвет линии для IE6-7 */
+  height: 3px; /* Толщина линии */
+  margin-top: 20%;
+}
+
+.vlad {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+.vlad1 {
+  text-decoration: none;
+  color: #505050;
+}
+
+.mobile1 {
+  width: 100%;
+  margin: 0 auto;
+  background: url(../img/bgmobile.png) no-repeat center top / cover;
+  display: none;
+}
+
+.mbg {
+  width: 90%;
+  margin: 0 auto;
+}
+
+.onlinemobile {
+  text-align: center;
+  padding-top: 1%;
+  margin-bottom: 75%;
+}
+
+.online34 {
+  margin: 0;
+  text-decoration: none;
+  color: #000;
+  background: #cb6000; /* Цвет фона */
+  padding: 81px 15px 25px 15px; /* Поля вокруг текста */
+  border-radius: 50px; /* Уголки */
+  /*margin-bottom: 70%;*/
+}
+
+.lgm {
+  display: flex;
+  margin: 0 auto;
+  margin-bottom: 75%;
+  width: 70%;
+  height: 30%;
+}
+
+.buttonmobile {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /*position: absolute;*/
+  /*bottom: 0;*/
+}
+
+
+

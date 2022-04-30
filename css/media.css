@@ -1,0 +1,260 @@
+@media screen and (min-width: 1599px) {
+  .work {
+  width: 60%;
+  margin: 0 auto;
+  }
+
+  .maps {
+    width: 70%;
+  }
+
+  .contact1 {
+  margin-bottom: 18%;
+  }
+
+/*  .logo {
+    margin-bottom: 20.1%;
+  }*/
+
+}
+
+@media screen and (min-height: 949px) {
+  .contact1 {
+  margin-bottom: 20%;
+  }
+
+  .logo {
+    margin-bottom: 20%;
+  }
+
+  hr {
+    margin-top: 23%;
+  }
+
+  .hair01 {
+    margin-bottom: 33%;
+  }
+}
+
+@media screen and (min-width: 1749px) {
+
+  .mouse {
+    margin-top: -5%;
+  }
+
+  header {
+    font-size: 27px;
+  }
+
+  .onas {
+  font-size: 39px;
+  }
+
+  .quality {
+  font-size: 30px;
+  }
+
+  .about {
+    width: 75%;
+  }
+
+  .aboutlair {
+  font-size: 25px;
+  }
+
+  .cup12 {
+  font-size: 21px;
+  }
+
+  .service {
+    font-size: 39px
+  }
+
+  .test {
+    font-size: 23px
+  }
+
+  .infogis {
+    font-size: 23px
+  }
+
+  .howstep {
+    font-size: 39px
+  }
+
+}
+
+@media screen and (min-width: 1869px) {
+    .contact1 {
+    margin-bottom: 18%;
+    }
+}
+
+@media screen and (min-width: 1910px) {
+    .contact1 {
+    margin-bottom: 16%;
+    }
+}
+
+@media screen and (max-width: 1188px) {
+  .lef {
+    display: none;
+  }
+
+  .rig {
+    width: 60%;
+    margin: 0 auto;
+  }
+
+  .quality {
+  text-align: center;
+  font-size: 25px;
+  }
+
+  .aboutlair {
+    font-size: 20px;
+    margin-top: 7%;
+    text-align: center;
+  }
+
+  .cup12 {
+    position: relative;
+    margin-left: 20%;
+    text-align: center;
+  }
+
+  .icon1 {
+    width: 48px;
+    height: 59px;
+    margin-top: 40px;
+  }
+
+  .icon2 {
+    width: 56px;
+    height: 59px;
+    margin-top: 40px;
+  }
+
+  .icon3 {
+    width: 63px;
+    height: 58px;
+    margin-top: 40px;
+  }
+
+  .picon1 {
+    width: 60%;
+    margin-top: 40px;
+  }
+
+  .picon2 {
+    width: 60%;
+    margin-top: 45px;
+  }
+
+  .picon3 {
+  width: 60%;
+  margin-top: 45px;
+  }
+}
+
+@media screen and (max-width: 1100px) {
+  .about {
+    display: none;
+  }
+
+  .gis {
+    display: none;
+  }
+
+  .infogis {
+    display: none;
+  }
+
+  .infogismobile {
+    display: block;
+    width: 85%;
+    margin: 0 auto;
+  }
+
+  .infocentr3 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5%;
+  }
+
+  .infocentr {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 2%;
+  }
+
+  .infocentr1 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  text-align: center;
+  margin-bottom: 2%;
+  }
+
+  .gismobile {
+    display: block;
+  }
+
+  hr {
+    margin-top: 0;
+  }
+
+}
+
+@media screen and (max-width: 1020px) {
+  .mouse {
+    display: none;
+  }
+}
+
+@media screen and (max-width: 950px) {
+  .serv {
+    display: none;
+  }
+
+  .serv1 {
+    display: block;
+  }
+}
+
+@media screen and (max-width: 720px) {
+
+  .container {
+    display: none;
+  }
+
+  .section {
+    display: none;
+  }
+
+  .serv {
+    display: none;
+  }
+
+  .serv1 {
+    display: none;
+  }
+
+  .footer {
+    display: none;
+  }
+
+  .mobd {
+    display: none;
+  }
+
+  .delet {
+    display: none;
+  }
+
+  .mobile1 {
+    display: block;
+  }
+}
